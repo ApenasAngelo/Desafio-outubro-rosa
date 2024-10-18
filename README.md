@@ -4,7 +4,7 @@
 Este projeto é uma iniciativa do "Vai na Web" para promover a conscientização sobre o câncer de mama durante o mês de outubro. O objetivo é criar uma landing page temática para aprendizado de HTML e SASS, além da iniciação dos conceitos iniciais de responsividade.
 
 ## 🌐 Deploy da página
-[Link para o projeto](#)
+[Link para o projeto](https://desafio-outubro-rosa-sand.vercel.app/)
 
 ## 🖼️ Prévia
 ![Prévia do Projeto](./resources/preview.png)
